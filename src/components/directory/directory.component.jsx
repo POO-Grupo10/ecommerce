@@ -37,7 +37,7 @@ export default class Directory extends Component {
                 title: 'mens',
                 imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
                 size: 'large',
-                id: 2,
+                id: 5,
                 linkUrl: 'mens'
             }]
         }
